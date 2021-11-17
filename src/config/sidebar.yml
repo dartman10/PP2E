@@ -1,10 +1,8 @@
 # Sidebar navigation
 
-- label: 'PinoyP2E'
+- label: 'Main'
   link: '/'
-- label: 'Menu'
-  items:
-    - label: 'About Us'
-      link: '/usage/about-us'
-    - label: 'FAQ'
-      link: '/usage/faq'
+- label: 'About Us'
+  link: '/usage/about-us'
+- label: 'FAQ'
+  link: '/usage/faq'
