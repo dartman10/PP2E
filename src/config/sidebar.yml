@@ -6,3 +6,8 @@
   link: '/usage/about-us'
 - label: 'FAQ'
   link: '/usage/faq'
+- label: 'KRL'
+  link: '/usage/krl'
+- label: 'Moonray'
+  link: '/usage/moonray'
+
